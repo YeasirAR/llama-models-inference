@@ -4,9 +4,10 @@ This repository contains Jupyter notebooks for testing different versions of LLa
 
 ## Repository Contents
 
-- `llama-2-7b-chat-hf-inference.ipynb`: Testing general question-answering capabilities of the LLaMA 2 model.
-- `code-llama-7b-instruct-hf-inference.ipynb`: Testing code generation and coding-related problem-solving capabilities of the Code LLaMA model.
-- `llama-3-8b-chat-hf-inference.ipynb`: Testing advanced chat capabilities of the LLaMA 3 model.
+- [llama-2-7b-chat-hf-inference.ipynb](https://www.kaggle.com/code/yeasirar/llama-2-7b-chat-hf-inference): Testing general question-answering capabilities of the LLaMA 2 model.
+- [code-llama-7b-instruct-hf-inference.ipynb](https://www.kaggle.com/code/yeasirar/code-llama-7b-instruct-hf-inference): Testing code generation and coding-related problem-solving capabilities of the Code LLaMA model.
+- [llama-3-8b-chat-hf-inference.ipynb](https://www.kaggle.com/code/yeasirar/llama-3-8b-chat-hf-inference): Testing advanced chat capabilities of the LLaMA 3 model.
+
 
 ## Models Tested
 
