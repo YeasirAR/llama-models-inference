@@ -1,6 +1,6 @@
 # LLaMA Model Inference Tests
 
-This repository contains Jupyter notebooks for testing different versions of LLaMA models, including LLaMA 2 and Code LLaMA. The notebooks showcase the inference capabilities of these models across various general and coding-related prompts.
+This repository contains Jupyter notebooks for testing different versions of LLaMA models, including LLaMA 2, LLaMA 2 and Code LLaMA. The notebooks showcase the inference capabilities of these models across various general and coding-related prompts.
 
 ## Repository Contents
 
